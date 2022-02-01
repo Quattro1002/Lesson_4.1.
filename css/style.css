@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+body{
+	font-family: Lato, Arial, Helvetica, 'sans-serif';
+}
+
+p{
+	font-weight: 400;
+	font-style: normal;
+	font-size: 16px;
+	line-height: 26px;
+	color: #424551;
+}
+
+h1{
+	font-weight: 900;
+	font-style: normal;
+	font-size: 46px;
+	line-height: 60px;
+	color: #1E212C;
+}
+
+h2{
+	font-weight: 700;
+	font-style: normal;
+	font-size: 20px;
+	line-height: 30px;
+	color: #1E212C;
+}
+
+.text-marked{
+	font-weight: 700;
+	font-style: normal;
+	font-size: 20px;
+	line-height: 30px;
+	color: #1E212C;
+}
+
+ul,li{
+	font-weight: 400;
+	font-style: normal;
+	font-size: 16px;
+	line-height: 30px;
+	text-indent: 40px;
+	color: #424551;
+}
